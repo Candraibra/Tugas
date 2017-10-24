@@ -1,0 +1,69 @@
+/* CSS Document */
+
+body{
+	width:100%;
+	padding: 0;
+	margin: 0 auto;
+	font-family:'Raleway', sans-serif;
+}
+#signup{
+	width:100%;
+	margin: 0;
+	overflow:hidden;
+	background-image:url(background.jpg);
+	background-size: cover;
+	height: 650px;
+	background-color: black;
+}
+#signup .input{
+	padding: 0;
+
+	float: center;
+	align-content: center;
+}
+#signup .input{
+	align-content: center;
+	text-align: center;
+	padding-top: 80px;
+	margin:0;
+	padding-bottom: 230px;
+
+}
+#signup .title{
+	font-size: 50px;
+	float:center;
+	margin: 0;
+	color:#fff;
+	padding-top: 80px;
+	width:100%;
+	padding:10px 20px;
+	text-align: center;
+	background-color: black;
+}
+
+#signup .sempak{
+	text-align: center;
+	font-size:15px;
+	align-content: center;
+	float: center;
+
+	margin-bottom: 15px;
+	border-radius: 25px;
+	padding: 8px 20px;
+	border: 2px solid #fff;
+}
+.submit{
+	text-align: center;
+	font-size:15px;
+	align-content: center;
+	float: center;
+	margin-bottom: 25px;
+	border-radius: 25px;
+	padding: 7px 15px;
+	border: 2px solid #fff;
+
+}
+.clear{
+	float: none;
+	clear: both;
+}
